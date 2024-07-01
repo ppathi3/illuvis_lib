@@ -45,3 +45,6 @@ from illuvis_lib import create_custom_bar_chart
 data = {"A": 10, "B": 20, "C": 30}
 create_custom_bar_chart(data, x_label='Keys', y_label='Values', legend_title='Legend', chart_title='Sample Bar Chart')
 ```
+Output of the example
+
+![image](https://github.com/ppathi3/illuvis_lib/assets/147741650/008474f4-afe0-4d89-b3bc-21c0cc3d8f51)
