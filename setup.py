@@ -10,6 +10,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         'matplotlib',
-        # Add other dependencies here
+        'plotly'
     ],
 )
